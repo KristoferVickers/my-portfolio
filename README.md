@@ -21,3 +21,8 @@ Sources
 https://www.google.com/search?sca_esv=569265910&rlz=1C1CHBF_enUS979US979&sxsrf=AM9HkKkzfbCqRfb7-d9XoFG0Iu5PkGwDSg:1695953219967&q=fish+bone+logo+free&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwik2-yJ3s6BAxVljIkEHf7dAScQ0pQJegQIChAB&biw=1660&bih=734&dpr=1#imgrc=xFR__q1FQrtVVM
 
 fish logo above
+
+I am going to link the website to w3 schools for part of my sources cause I used a lot of the tabs. 
+
+https://www.w3schools.com/
+
